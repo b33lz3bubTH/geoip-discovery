@@ -1,4 +1,4 @@
-module github.com/b33lz3bub/geoip-discovery
+module github.com/b33lz3bubTH/geoip-discovery
 
 go 1.22.0
 

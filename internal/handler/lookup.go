@@ -5,8 +5,8 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/b33lz3bub/geoip-discovery/internal/geoip"
-	"github.com/b33lz3bub/geoip-discovery/pkg/iputil"
+	"github.com/b33lz3bubTH/geoip-discovery/internal/geoip"
+	"github.com/b33lz3bubTH/geoip-discovery/pkg/iputil"
 )
 
 type lookupResponse struct {

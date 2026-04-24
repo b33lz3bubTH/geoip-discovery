@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/b33lz3bub/geoip-discovery/internal/geoip"
-	"github.com/b33lz3bub/geoip-discovery/pkg/iputil"
+	"github.com/b33lz3bubTH/geoip-discovery/internal/geoip"
+	"github.com/b33lz3bubTH/geoip-discovery/pkg/iputil"
 )
 
 // GeoBlock returns middleware that blocks requests from any country whose

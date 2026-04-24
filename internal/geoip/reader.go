@@ -5,7 +5,7 @@ import (
 	"net"
 
 	"github.com/oschwald/maxminddb-golang"
-	"github.com/b33lz3bub/geoip-discovery/internal/cache"
+	"github.com/b33lz3bubTH/geoip-discovery/internal/cache"
 )
 
 // Reader wraps a MaxMind DB with a byte-bounded in-memory LRU cache.

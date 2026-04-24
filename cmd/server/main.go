@@ -11,9 +11,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/b33lz3bub/geoip-discovery/internal/geoip"
-	"github.com/b33lz3bub/geoip-discovery/internal/handler"
-	"github.com/b33lz3bub/geoip-discovery/internal/middleware"
+	"github.com/b33lz3bubTH/geoip-discovery/internal/geoip"
+	"github.com/b33lz3bubTH/geoip-discovery/internal/handler"
+	"github.com/b33lz3bubTH/geoip-discovery/internal/middleware"
 )
 
 func main() {
